@@ -1,0 +1,113 @@
+/* General styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Dark background */
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+  }
+  
+  /* Main container holds both the search panel and map */
+  #main-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Styling for the search panel */
+  #search-panel {
+    width: 30%;
+    padding: 20px;
+    background-color: #222;
+    border-right: 1px solid #444;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #FFD700; /* Gold color for headings */
+  }
+  
+  input, button {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  input {
+    background-color: #333;
+    color: white;
+    border: 1px solid #444;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styling for the results section */
+  #results {
+    margin-top: 20px;
+    background-color: #333;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    color: #FFD700;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 8px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    font-size: 16px;
+    color: #fff;
+    margin: 5px 0;
+  }
+  
+  ul li strong {
+    color: #4CAF50;
+  }
+  
+  /* Map container styles */
+  #map-container {
+    width: 70%;
+    height: 100vh;
+  }
+  
+  .map {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    #search-panel {
+      width: 100%;
+      padding: 15px;
+    }
+  
+    #map-container {
+      width: 100%;
+    }
+  }
