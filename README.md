@@ -24,10 +24,6 @@
 * Using Data Science and Machine learning, we built a website that can calculate the green score of a plot of land. The Green Score of a land, for now, only takes two parameters: the water table and the market trend values, to calculate how feasible the land is on a score of 1 - 10.
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Deployed website
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
-
 ## Introduction
 *  There are two datasets used in this project: Ames Housing Dataset and Rainfall dataset; for calculating the market trend value and the rainfall of a particular place.
 *  We predict future market trends and estimate the current market value of the land using a trained Convolutional Neural Network (CNN) model. This model will analyze factors such as land area, quality, and previous sale prices to determine the market value.
