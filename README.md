@@ -20,7 +20,11 @@
     <a href="https://github.com/bhavisan/green_scope_detection/tree/main/src/dataset">Databases used</a>
   </p>
 </div>
+## Problem Statement
+* There are several reasons for purchasing a plot of land, whether it's for a large company or a small farmer. However, due to rapid urbanization and various environmental uncertainties, it is crucial to ensure that the right plot of land is selected.
+What determines a good plot of land, and how can people decide which one is the best? This is the issue we aim to address.
 
+* We developed a website where users can search or select a location of interest, and the site provides detailed insights about the selected area.
 ## About The Project
 * Using Data Science and Machine learning, we built a website that can calculate the green score of a plot of land. The Green Score of a land, for now, only takes two parameters: the water table and the market trend values, to calculate how feasible the land is on a score of 1 - 10.
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
