@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/bhavisan/green_scope_detection/blob/main/src/app.py">View Flask app code</a>
     ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
+    <a href="https://github.com/bhavisan/green_scope_detection/blob/main/src/newNotebook.ipynb"> CNN Model Building</a>
     ·
     <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
   </p>
