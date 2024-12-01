@@ -44,8 +44,8 @@
 
 <!-- CONTACT -->
 ## Members:
-![Bhavana PH](https://github.com/bhavisan)
-![Neema Vinod](https://github.com/Neem05)
+[Bhavana PH](https://github.com/bhavisan)
+[Neema Vinod](https://github.com/Neem05)
 Samridhi Singh
 
 
