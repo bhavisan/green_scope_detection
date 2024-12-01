@@ -20,6 +20,8 @@
     <a href="https://github.com/bhavisan/green_scope_detection/tree/main/src/dataset">Databases used</a>
   </p>
 </div>
+
+
 ## Problem Statement
 * There are several reasons for purchasing a plot of land, whether it's for a large company or a small farmer. However, due to rapid urbanization and various environmental uncertainties, it is crucial to ensure that the right plot of land is selected.
 What determines a good plot of land, and how can people decide which one is the best? This is the issue we aim to address.
@@ -29,11 +31,22 @@ What determines a good plot of land, and how can people decide which one is the 
 * Using Data Science and Machine learning, we built a website that can calculate the green score of a plot of land. The Green Score of a land, for now, only takes two parameters: the water table and the market trend values, to calculate how feasible the land is on a score of 1 - 10.
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Introduction
+## Deployed Website
+
+  ![WhatsApp Image 2024-12-01 at 17 59 40_4f1c260c](https://github.com/user-attachments/assets/669c5da6-d98b-4a51-8ba7-d80e55641278)
+
+  
 *  There are two datasets used in this project: Ames Housing Dataset and Rainfall dataset; for calculating the market trend value and the rainfall of a particular place.
 *  We predict future market trends and estimate the current market value of the land using a trained Convolutional Neural Network (CNN) model. This model will analyze factors such as land area, quality, and previous sale prices to determine the market value.
 *  We predict the water table level based on rainfall data and historical environmental patterns using a CNN model. The model will provide insights into water availability, which is crucial for agricultural or residential planning.
 *  The data from above two is fed into a final CNN model that calculates the final green score of a place on a scale of 1-10.
+*  The R2 score is 0.9834
+
+## Future Scope:
+* Currently due to time constraints, we were able to implement only 3 factors to determine the feasibility of the plot. 
+
+* However, we do not stop here. The accuracy of the website can be increased by including more factors such as: checking natural disaster probability, pollution levels, soil fertility,  population density, checking scope for development, find climate and weather trends, zoning regulations, biodiversity impact and accessibility. We can also include comparison tool to compare two plots of land 
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
