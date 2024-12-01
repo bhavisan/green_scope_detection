@@ -33,9 +33,13 @@ What determines a good plot of land, and how can people decide which one is the 
 
 ## Deployed Website
 
-  ![WhatsApp Image 2024-12-01 at 17 59 40_4f1c260c](https://github.com/user-attachments/assets/669c5da6-d98b-4a51-8ba7-d80e55641278)
+![WhatsApp Image 2024-12-01 at 18 24 57_66a41691](https://github.com/user-attachments/assets/96ba2aac-bd71-456e-83e7-fd8539057502)
+![WhatsApp Image 2024-12-01 at 18 30 20_aabcdc72](https://github.com/user-attachments/assets/8cd204eb-8a52-4914-8672-7ea753bad9a5)
+![WhatsApp Image 2024-12-01 at 17 59 40_3c9020fb](https://github.com/user-attachments/assets/4e45acbd-5492-4516-9f0d-ae541537a019)
 
-  
+
+
+
 *  There are two datasets used in this project: Ames Housing Dataset and Rainfall dataset; for calculating the market trend value and the rainfall of a particular place.
 *  We predict future market trends and estimate the current market value of the land using a trained Convolutional Neural Network (CNN) model. This model will analyze factors such as land area, quality, and previous sale prices to determine the market value.
 *  We predict the water table level based on rainfall data and historical environmental patterns using a CNN model. The model will provide insights into water availability, which is crucial for agricultural or residential planning.
@@ -56,3 +60,17 @@ What determines a good plot of land, and how can people decide which one is the 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Installation Guide:
+Install the following dependencies:
+* npm i react-leaflet
+* npm i chart.js
+* npm i flask
+* npm i flask cors
+* npm i pandas
+* npm i scikit-learn
+* npm i tensorflow
+* npm i notebook
+* npm i keras
+
+
