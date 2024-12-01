@@ -3,7 +3,7 @@
 
 <h3 align="center">Green Scope Predictor</h3>
  <a>
-    <img src="https://img.freepik.com/free-vector/detective-wearing-brown-overcoat-bushes_1308-91306.jpg" width="80" height="80"/> 
+    <img src="https://img.freepik.com/free-vector/detective-wearing-brown-overcoat-bushes_1308-91306.jpg" width="100" height="100"/> 
   </a>
 
   <p align="center">
