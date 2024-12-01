@@ -6,7 +6,7 @@
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/bhavisan/green_scope_detection"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/app.py">View Flask app code</a>
