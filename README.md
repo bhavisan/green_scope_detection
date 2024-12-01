@@ -43,22 +43,9 @@
 
 
 <!-- CONTACT -->
-## Contact
-[![Bhavana PH | LinkedIn](https://img.shields.io/badge/Bhavana-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Samridhi Singh | G Mail](https://img.shields.io/badge/Samridhi-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![Neema Vinod | GitHub](https://img.shields.io/badge/Neema-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
+## Members:
+![Bhavana PH](https://github.com/bhavisan)
+![Neema Vinod](https://github.com/Neem05)
+Samridhi Singh
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- MARKDOWN LINKS  -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-
-<!-- Tools Used -->
-[PyCharm]: https://code.visualstudio.com/
-[postman]: https://www.postman.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[heroku]: https://www.heroku.com/
