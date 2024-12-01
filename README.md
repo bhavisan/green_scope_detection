@@ -3,7 +3,7 @@
 
 <h3 align="center">Green Scope Predictor</h3>
  <a>
-    <img src="https://img.freepik.com/free-vector/blank-landscape-nature-park-scene-with-many-pines_1308-47926.jpg" width="100" height="100"/> 
+    <img src="https://img.freepik.com/free-vector/blank-landscape-nature-park-scene-with-many-pines_1308-47926.jpg" width="200" height="100"/> 
   </a>
 
   <p align="center">
